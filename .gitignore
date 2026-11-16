@@ -1,0 +1,6 @@
+__pycache__/
+distilbert_results/
+sentiment_model/
+*.pth
+.env
+.ipynb_checkpoints/
